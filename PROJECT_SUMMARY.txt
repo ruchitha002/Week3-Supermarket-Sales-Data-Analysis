@@ -1,0 +1,14 @@
+WEEK 3 PROJECT COMPLETION SUMMARY
+
+Dataset rows: 1000
+Total sales: $81,902.28
+Average transaction: $81.90
+Highest transaction: $799.80
+Lowest transaction: $0.76
+Top category: Electronics
+Top payment method: Cash
+Top customer type by sales: Member
+Highest sales day: 2023-01-11
+Lowest sales day: 2023-01-23
+
+All required Week 3 modules are included in the notebook.
